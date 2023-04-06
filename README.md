@@ -1,5 +1,3 @@
-# 🦉 Stats
-
 > playerName = "YoYankee / 罗马"<br/>
 > myDiscord = "jsun969#1144"<br/>
 > trynna full-stack yes or no?<br/>
