@@ -1,4 +1,4 @@
-# 🤤 Stats
+# 🦉 Stats
 
 > playerName = "YoYankee / 罗马"<br/>
 > myDiscord = "jsun969#1144"<br/>
