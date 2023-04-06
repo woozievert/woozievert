@@ -1,6 +1,6 @@
-> playerName = "YoYankee / 罗马"
-> myDiscord = "jsun969#1144"
-> trynna full-stack yes or no?
+> playerName = "YoYankee / 罗马"<br/>
+> myDiscord = "jsun969#1144"<br/>
+> trynna full-stack yes or no?<br/>
 
 # 📕Learning
 
