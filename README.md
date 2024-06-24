@@ -1,5 +1,5 @@
-> playerName = "YoYankee / 罗马"<br/>
-> playerDiscord = "yoyankee#0793"<br/>
+> playerName = "woozie / 罗马"<br/>
+> playerDiscord = "woozie_vert"<br/>
 
 # 📕 Learning
 
